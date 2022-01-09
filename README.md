@@ -1,2 +1,40 @@
-# Personal-Porfolio
-A portfolio website is also meant to give site visitors general information about the owner of the site. Basic information comes in the form of things like: Contact information. This is a statement of your preferred methods of communication, such as email, a contact web form, your phone number, your office’s address, and so forth.
+# Portfolio-website-using-django
+- A simple personal portfolio website using django
+
+- This portfolio website is fully configurable or customizable
+
+- Y
+
+- This project is developed with the motto  ```Deploy once time; customize many time```
+
+
+
+## Installation procedure
+
+```shell script
+
+
+# install dependencies
+
+$ pip install -r requirements.txt
+
+# create tables
+
+$ python manage.py migrate
+
+$ python manage.py createsuperuser
+
+# Launch the servers
+
+$ python manage.py runserver
+
+
+
+0.0.0.0:8000/myportfolio
+```
+
+
+
+
+
+ 
